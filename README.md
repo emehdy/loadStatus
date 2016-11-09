@@ -6,4 +6,4 @@ used for Image load status
 
 
 
-http//jsfiddle.net/wLa1yo9o
+http://jsfiddle.net/wLa1yo9o
